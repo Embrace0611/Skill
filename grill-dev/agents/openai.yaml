@@ -1,0 +1,3 @@
+interface:
+  display_name: "Grill Dev"
+  short_description: "逐个追问开发需求与技术机制，补齐项目上下文，形成可交接的已确认方案"

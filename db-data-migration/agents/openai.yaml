@@ -1,0 +1,5 @@
+interface:
+  display_name: "数据库迁移"
+  short_description: "调查数据库变更影响、审阅完整策略，确认后实现并验证可恢复迁移"
+policy:
+  allow_implicit_invocation: true

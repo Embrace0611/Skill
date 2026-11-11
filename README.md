@@ -1,3 +1,0 @@
-# Skill
-# Skill
-# Skill
